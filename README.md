@@ -11,7 +11,7 @@ A2Z Striver DSA Sheet: A comprehensive roadmap for practicing problems of all di
 
 Code Implementations: Each problem will have clean, well-commented Python code.
 
-Variety of Topics: From arrays and recursion to graphs and dynamic programming, you'll find it all.
+Variety of Topics: You'll find it all from Lists and recursion to graphs and dynamic programming.
 
 Consistency: I actively update this repository with new problem solutions as I learn and grow.
 
