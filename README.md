@@ -3,7 +3,7 @@ Welcome to my DSA in Python repository! 🚀 This is where I embark on an exciti
 📚 My Resources
 I'm leveraging the best resources out there to guide me:
 
-**Krish Naik's DSA Course**: A structured DSA course simplifying complex concepts.
+**Code and Debug DSA Course**: A structured DSA course simplifying complex concepts.
 
 **NeetCode150 Sheet**: A comprehensive sheet for practicing problems of all difficulty levels.
 
