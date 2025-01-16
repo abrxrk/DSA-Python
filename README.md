@@ -1,4 +1,4 @@
-Welcome to my DSA in Python repository! 🚀 This is where I embark on an exciting journey to master Data Structures and Algorithms using Python. The goal? To build a solid problem-solving foundation and ace coding interviews while enjoying the process! 🎯
+Welcome to my DSA with Python repository! 🚀 This is where I embark on an exciting journey to master Data Structures and Algorithms using Python. The goal? To build a solid problem-solving foundation and ace coding interviews while enjoying the process! 🎯
 
 📚 My Resources
 I'm leveraging the best resources out there to guide me:
